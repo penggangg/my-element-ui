@@ -10,14 +10,14 @@ module.exports = {
                 styleLibraryName: 'theme-chalk'
             },
             'element'
+        ],
+        [
+            'component',
+            {
+                libraryName: '@penggang/zct-ui',
+                style: false
+            },
+            'zct'
         ]
-        // [
-        //     'component',
-        //     {
-        //         libraryName: '@penggang/zct-ui',
-        //         style: false
-        //     },
-        //     'zct'
-        // ]
     ]
 };

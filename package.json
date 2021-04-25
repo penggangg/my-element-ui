@@ -1,6 +1,6 @@
 {
   "name": "@penggang/zct-ui",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "基于element-ui的二次封装组件",
   "main": "lib/zct-ui.common.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "package.json"
   ],
   "dependencies": {
-    "@penggang/zct-ui": "^1.0.4",
+    "@penggang/zct-ui": "^1.0.7",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.1",
     "vue": "^2.6.11",

@@ -1,9 +1,12 @@
 import {
-    Button
+    Button,
+    Radio
 } from 'element-ui';
 import ZctButton from '../packages/button/index.js';
+import ZctRadio from '../packages/radio/index.js';
 const components = [
-        ZctButton
+        ZctButton,
+        ZctRadio
     ],
     install = function(Vue, opts = {}) {
         components.forEach(component => {
@@ -12,6 +15,7 @@ const components = [
     },
     loadElementComponent = (Vue) => {
         Vue.use(Button);
+        Vue.use(Radio);
     };
 export default {
     loadElementComponent,

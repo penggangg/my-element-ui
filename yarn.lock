@@ -984,6 +984,28 @@
     vue "^2.6.11"
     vue-router "^3.2.0"
 
+"@penggang/zct-ui@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@penggang/zct-ui/-/zct-ui-1.0.5.tgz#0dada33b6913d09ac2978fe97a0053f080dde8d7"
+  integrity sha512-r+0yl9R8KLWueMb4yOI9LYgwib5m0nXa86Cp0HYxzzwWzUu+2dA6RGT197rE+UiuNJZBpce31nGLb74fo0O5CQ==
+  dependencies:
+    "@penggang/zct-ui" "^1.0.4"
+    core-js "^3.6.5"
+    element-ui "^2.15.1"
+    vue "^2.6.11"
+    vue-router "^3.2.0"
+
+"@penggang/zct-ui@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@penggang/zct-ui/-/zct-ui-1.0.7.tgz#8697d78e231be45b3be6946a9d6d0311b0f46552"
+  integrity sha512-5qUHD7tQWP8nWi9Lrd8pvJJ9eBJAGPpYvqDe98yZmWSqvhYDFWOdpdH2fUuhzlkC+yNowi+HSdiLbUtjfPn9EA==
+  dependencies:
+    "@penggang/zct-ui" "^1.0.5"
+    core-js "^3.6.5"
+    element-ui "^2.15.1"
+    vue "^2.6.11"
+    vue-router "^3.2.0"
+
 "@polka/url@^1.0.0-next.9":
   version "1.0.0-next.12"
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.12.tgz#431ec342a7195622f86688bbda82e3166ce8cb28"
